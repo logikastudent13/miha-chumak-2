@@ -1,0 +1,54 @@
+header h1 {
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+    color: black;
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav a {
+    background-color: lightblue;
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 20px;
+    border: 2px solid blue;
+    font-size: 20px;
+}
+
+nav {
+    border-radius: 10px;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+main img {
+    border: 3px solid darkcyan;
+    border-radius: 10px;
+}
+
+footer a {
+    border: 3px solid firebrick;
+    border-radius: 10px;
+    padding: 4px;
+    text-decoration: none;
+    text-align: center;
+
+    font-size: 25px;
+    background-color: white;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 10px;
+}
